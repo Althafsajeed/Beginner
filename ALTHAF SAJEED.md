@@ -1,2 +1,0 @@
-# Biginner
-## Introduction to Github
