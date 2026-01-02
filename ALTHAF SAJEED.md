@@ -1,3 +1,0 @@
-# HELLO...
-## My name is Althaf Sajeed.
-### I am from Alappy.
